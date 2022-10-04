@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "The woodlands ",
+        "State": "TX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.548211,
+          30.194985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Cambridge",
+        "State": "MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.132947,
+          42.380442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Naperville",
+        "State": "IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.152381,
+          41.759029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Arlington",
+        "State": "VA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.099113,
+          38.885484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Overland Park",
+        "State": "KS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.669467,
+          39.02315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Ann Arbor",
+        "State": "MI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.849042,
+          42.266638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Columbia",
+        "State": "MD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.887905,
+          39.206132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Berkeley",
+        "State": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28713,
+          37.864425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Plano",
+        "State": "TX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.730831,
+          33.056756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Irvine",
+        "State": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.750414,
+          33.757245
+        ]
+      }
+    }
+  ]
+}
